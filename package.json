@@ -1,0 +1,23 @@
+{
+  "name": "Breaking_Bad_Cast",
+  "version": "1.0.0",
+  "description": "SPA con los actores de la serie Breaking Bad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitEdy2/Breaking_Bad_Cast.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GitEdy2/Breaking_Bad_Cast/issues"
+  },
+  "homepage": "https://github.com/GitEdy2/Breaking_Bad_Cast#readme",
+  "dependencies": {
+    "create-react-app": "^3.4.1"
+  }
+}
